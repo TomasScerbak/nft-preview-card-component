@@ -67,6 +67,7 @@ img {
 }
 .equilibrium {
   border-radius: 10px;
+  display: block;
 }
 .icon {
   color: var(--white);
